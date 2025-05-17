@@ -4,7 +4,7 @@ This repository tracks my ongoing portfolio development across multiple domains 
 
 ## Contents
 
-- [ROADMAP](https://github.com/tnauckunas/public-roadmap/blob/773e9f08d931891e13ca4f4629e03423357cd3f7/ROADMAP.md) – Full public development tracker
+- [ROADMAP](https://github.com/tnauckunas/public-roadmap/blob/06693a1d71074fc66666d72c6dd41a44ca03d953/ROADMAP.md) – Full public development tracker
 
 ## Core Projects
 
