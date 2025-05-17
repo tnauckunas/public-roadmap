@@ -14,6 +14,7 @@ This roadmap is a live tracker for my personal project development, technical gr
 * [ ] Repo 6: Network Security Toolkit (Port Scanner, Packet Sniffer, Brute Force Logger)
 * [ ] Repo 7: Cloud IaC Lab (Terraform + AWS EC2, S3, IAM, VPC)
 * [ ] Repo 8: Terminal Copilot — Natural Language to Shell with AI (Python + OpenAI)
+* [ ] Repo 9: Incident Response Simulator (Brute Force, Log Triage, Auto RCA Generator)
 
 ---
 
