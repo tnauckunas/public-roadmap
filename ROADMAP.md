@@ -1,42 +1,44 @@
-# Tomas Nauckunas – Public Project Roadmap
+# Tomas Nauckunas — Full-Spectrum Tech Project Roadmap  
+_A Zero-to-DevSecOps Buildout | Real-World Problems → Real Proof_
 
-This public roadmap is a high-impact tracker for my monthly project development, technical mastery, and hands-on innovation across IT, DevOps, cybersecurity, and automation domains. Each project below is born from real-world friction systems I’ve personally fixed, rebuilt, or automated from scratch. No theory, no fluff, just delivered proof of capability.
+This roadmap documents my zero-to-one evolution across IT, DevOps, security, scripting, and automation. Every project listed was born from real pain — systems I personally fixed, rebuilt, or reinvented from scratch.  
+No courses. No fluff. Just delivered capability and proof.
 
 ---
 
 ## Current Repos in Progress
 
-- [x] **Repo 1:** Sempre Health QA Technician  
-- [x] **Repo 2:** IT Field Technician Moving & QA  
-- [x] **Repo 3:** Multi-Domain Mechanical Diagnostic Repair & QA  
-- [ ] **Repo 4:** Clearance Deal Scanner (Python Web Scraper for US & UK Retail) — App Optional  
-- [ ] **Repo 5:** DevOps Pipeline Demo (CI/CD with Docker, GitHub Actions, Bash, YAML)  
-- [ ] **Repo 6:** Network Security Toolkit (Port Scanner, Packet Sniffer, Brute Force Logger)  
-- [ ] **Repo 7:** Cloud IaC Lab (Terraform + AWS EC2, S3, IAM, VPC)  
-- [ ] **Repo 8:** Terminal Copilot — Natural Language to Shell with AI (Python + OpenAI)  
-- [ ] **Repo 9:** Incident Response Simulator (Brute Force, Log Triage, Auto RCA Generator)
-- [ ] **Repo 10:** SIEM Rule Forge — Log Parser + Alert Generator (Regex, YAML Rules, CLI Output)
+- [x] **Sempre Health QA** — Live Testing, Troubleshooting, and Integration Logs  
+- [x] **IT Field Ops** — Repair, Setup, Transport, and Wiring Documentation  
+- [x] **Multi-Domain Diagnostic** — Electrical, Mechanical, and Vehicle-Level QA  
+- [⏳] **Clearance Scanner (US/UK)** — Python CLI for Retail Price Anomaly Detection  
+- [❌] **CI/CD Demo Pipeline** — Docker, GitHub Actions, YAML Build + Deploy Flow  
+- [❌] **NetSec Toolkit** — Port Scanner, Packet Sniffer, Brute Force Logger  
+- [❌] **Cloud IaC Lab** — Terraform w/ AWS EC2, S3, IAM, VPC Provisioning  
+- [❌] **Terminal Copilot** — AI Shell Commands w/ OpenAI + Python  
+- [❌] **IR Simulator** — Brute Force Detection, Log Triage, RCA Generator  
+- [❌] **SIEM Rule Forge** — Regex + YAML Rule Generator + CLI Alert Output  
 
 ---
 
-## Goals
+## Goals  
 
-- Ship 1 **high-leverage repo per month**
-- Master **Python web scraping** through production-ready projects
-- Launch a **cross-platform mobile app** (React Native or Flutter)
-- Learn and deploy **Docker, Kubernetes, and CI/CD** workflows
-- Build systems that solve **real user pain points** and job-critical tech gaps
-- Transition from QA to full **DevSecOps / Automation Engineer** trajectory
+- Ship **1 high-leverage repo per month**  
+- Master **Python web scraping** through production-level tools  
+- Launch a **cross-platform mobile app** (React Native or Flutter)  
+- Learn and deploy **Docker, Kubernetes, CI/CD pipelines**  
+- Build systems that solve **real user pain points**  
+- Transition from QA → **DevSecOps / Automation Engineer**
 
 ---
 
-## Repo Architecture Strategy
+## Repo Architecture Blueprint  
 
 Every major repo includes:
 
-- `README.md` → Clear purpose, scope, features
-- `TODO.md` → Task planning + milestone tracker
-- `logs/` → Real screenshots, scans, or script output
+- `README.md` → Clear purpose, scope, and features  
+- `TODO.md` → Task planning + milestone tracker  
+- `logs/` → Real screenshots, scans, or script output  
 - `assets/` → Proof photos, visual walk-throughs
 
 ---
