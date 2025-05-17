@@ -10,9 +10,8 @@ This roadmap is a live tracker for my personal project development, technical gr
 * [x] Repo 2: IT Field Technician Moving & QA
 * [x] Repo 3: Multi Domain Mechnical Diagnostic Repair & QA
 * [ ] Repo 4: Clearance Deal Scanner > US & UK (Python Web Scraper) & Potentially App
-* [ ] Repo 5: Ad-Free YouTube Player App (Mobile, Background Playback)
-* [ ] Repo 6: Devops-pipeline-demo (Docker, YAML, Bash, Git, optional Kubernetes)
-* [ ] Repo 7: Network Security Threat Simulator + Logger (e.g., port scans, brute force, packet sniffing)
+* [ ] Repo 5: Devops-pipeline-demo (Docker, YAML, Bash, Git, optional Kubernetes)
+* [ ] Repo 6: Network Security Threat Simulator + Logger (e.g., port scans, brute force, packet sniffing)
 
 ---
 
