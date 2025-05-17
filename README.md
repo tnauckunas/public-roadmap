@@ -14,7 +14,6 @@ This repository tracks my ongoing portfolio development across multiple domains 
 | [IT Field Tech](https://github.com/tnauckunas/field-system-reinstall-log) | Image-documented archive of repair, install, transport, testing, and QA logs |
 | [Mechnical Diagnostic Repair](https://github.com/tnauckunas/multi-domain_field_repair_logs) | Hands-on mechanical, electrical, and diagnostic repair logs across multiple domains |
 | [Clearance Scanner US & UK > In Progress](https://github.com/tnauckunas/store_clearance-scanner) | Python-based CLI to detect unlisted retail clearance deals |
-| `public-roadmap` | This repo – tracks all repo progress and execution flow |
 
 ## Repo Structure Strategy
 
