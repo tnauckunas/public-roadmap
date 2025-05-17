@@ -1,4 +1,4 @@
-# 📍 Tomas Nauckunas – Public Project Roadmap
+# Tomas Nauckunas – Public Project Roadmap
 
 This roadmap is a live tracker for my personal project development, technical growth, and monthly output goals. Each project reflects a real-world pain point, something I’ve personally encountered, and rebuilt from the ground up hands-on, no fluff.
 
