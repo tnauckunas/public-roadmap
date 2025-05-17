@@ -12,6 +12,8 @@ This roadmap is a live tracker for my personal project development, technical gr
 * [ ] Repo 4: Clearance Deal Scanner (Python Web Scraper for US & UK Retail) — App Optional
 * [ ] Repo 5: DevOps Pipeline Demo (CI/CD with Docker, GitHub Actions, Bash, YAML)
 * [ ] Repo 6: Network Security Toolkit (Port Scanner, Packet Sniffer, Brute Force Logger)
+* [ ] Repo 7: Cloud IaC Lab (Terraform + AWS EC2, S3, IAM, VPC)
+* [ ] Repo 8: Terminal Copilot — Natural Language to Shell with AI (Python + OpenAI)
 
 ---
 
