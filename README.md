@@ -13,7 +13,7 @@ This repository tracks my ongoing portfolio development across multiple domains 
 
 | Repo | Description |
 |------|-------------|
-| ![appliance-repair](https://github.com/tnauckunas/sempre-health-qa-support-log) | Real-world appliance fix logs, with before/after photos |
+| [appliance-repair](https://github.com/tnauckunas/sempre-health-qa-support-log) | Real-world appliance fix logs, with before/after photos |
 | `vehicle-repair` | Head gasket tear-down, hybrid cooling system repair |
 | `trailer-wiring` | Full 7-pin harness + junction rebuild with color-coded documentation |
 | `clearance-scanner-suite` | Python-based CLI to detect unlisted retail clearance deals |
