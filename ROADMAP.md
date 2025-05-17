@@ -9,9 +9,9 @@ This roadmap is a live tracker for my personal project development, technical gr
 * [x] Repo 1: Sempre Health QA Technician
 * [x] Repo 2: IT Field Technician Moving & QA
 * [x] Repo 3: Multi Domain Mechnical Diagnostic Repair & QA
-* [ ] Repo 4: Clearance Deal Scanner > US & UK (Python Web Scraper) & Potentially App
-* [ ] Repo 5: Devops-pipeline-demo (Docker, YAML, Bash, Git, optional Kubernetes)
-* [ ] Repo 6: Network Security Threat Simulator + Logger (e.g., port scans, brute force, packet sniffing)
+* [ ] Repo 4: Clearance Deal Scanner (Python Web Scraper for US & UK Retail) — App Optional
+* [ ] Repo 5: DevOps Pipeline Demo (CI/CD with Docker, GitHub Actions, Bash, YAML)
+* [ ] Repo 6: Network Security Toolkit (Port Scanner, Packet Sniffer, Brute Force Logger)
 
 ---
 
