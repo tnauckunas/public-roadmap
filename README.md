@@ -13,10 +13,10 @@ This repository tracks my ongoing portfolio development across multiple domains 
 
 | Repo | Description |
 |------|-------------|
-| [appliance-repair](https://github.com/tnauckunas/sempre-health-qa-support-log) | Real-world appliance fix logs, with before/after photos |
-| `vehicle-repair` | Head gasket tear-down, hybrid cooling system repair |
-| `trailer-wiring` | Full 7-pin harness + junction rebuild with color-coded documentation |
-| `clearance-scanner-suite` | Python-based CLI to detect unlisted retail clearance deals |
+| [Sempre-Health QA](https://github.com/tnauckunas/sempre-health-qa-support-log) | Documents live QA, troubleshooting, and integration tasks performed during my tenure at Sempre Health |
+| [IT Field Tech](https://github.com/tnauckunas/field-system-reinstall-log) | Image-documented archive of repair, install, transport, testing, and QA logs |
+| [Mechnical Diagnostic Repair](https://github.com/tnauckunas/multi-domain_field_repair_logs) | Hands-on mechanical, electrical, and diagnostic repair logs across multiple domains |
+| [Clearance Scanner US & UK](https://github.com/tnauckunas/store_clearance-scanner) | Python-based CLI to detect unlisted retail clearance deals |
 | `public-roadmap` | This repo – tracks all repo progress and execution flow |
 
 ## Repo Structure Strategy
