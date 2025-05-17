@@ -4,10 +4,7 @@ This repository tracks my ongoing portfolio development across multiple domains 
 
 ## Contents
 
-- `ROADMAP.md` – Full public development tracker
-- `TODO.md` – Feature backlog & task logs (per project)
-- `assets/` – Visual documentation, repair proof, annotated screenshots
-- `logs/` – Scan logs, test outputs, raw markdown result files
+- [ROADMAP](https://github.com/tnauckunas/public-roadmap/blob/773e9f08d931891e13ca4f4629e03423357cd3f7/ROADMAP.md) – Full public development tracker
 
 ## Core Projects
 
