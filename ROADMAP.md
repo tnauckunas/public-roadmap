@@ -11,7 +11,7 @@ This roadmap is a live tracker for my personal project development, technical gr
 * [x] Repo 3: Multi Domain Mechnical Diagnostic Repair & QA
 * [ ] Repo 4: Clearance Deal Scanner (Python Web Scraper) & Potentially App
 * [ ] Repo 5: Ad-Free YouTube Player App (Mobile, Background Playback)
-* [ ] Repo 6: Devops-pipeline-demo (Docker, CI/CD flow)
+* [ ] Repo 6: Devops-pipeline-demo (Docker, YAML, Bash, Git, optional Kubernetes)
 
 ---
 
