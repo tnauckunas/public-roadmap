@@ -6,7 +6,7 @@ This roadmap is a live tracker for my personal project development, technical gr
 
 ## Current Repos in Progress
 
-* [x] Repo 1: Sempre Health QA Support
+* [x] Repo 1: Sempre Health QA Technician
 * [x] Repo 2: IT Field Technician Moving & QA
 * [x] Repo 3: Multi Domain Mechnical Diagnostic Repair & QA
 * [ ] Repo 4: Clearance Deal Scanner (Python Web Scraper) & Potentially App
