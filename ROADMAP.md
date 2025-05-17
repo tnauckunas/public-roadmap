@@ -10,10 +10,11 @@ No courses. No fluff. Just delivered capability and proof.
 
 - [x] **Sempre Health QA** — Live Testing, Troubleshooting, and Integration Logs  
 - [x] **IT Field Ops** — Repair, Setup, Transport, and Wiring Documentation  
-- [x] **Multi-Domain Diagnostic** — Electrical, Mechanical, and Vehicle-Level QA  
-⏳ **Clearance Scanner (US/UK)** — Python CLI for Retail Price Anomaly Detection  
+- [x] **Multi-Domain Diagnostic** — Electrical, Mechanical, and Vehicle-Level QA
+      
+⏳ **Clearance Scanner (US/UK)** — Python CLI for Retail Price Anomaly Detection   
 ❌ **CI/CD Demo Pipeline** — Docker, GitHub Actions, YAML Build + Deploy Flow  
-❌ **NetSec Toolkit** — Port Scanner, Packet Sniffer, Brute Force Logger  
+❌ **NetSec Toolkit** — Port Scanner, Packet Sniffer, Brute Force Logger   
 ❌ **Cloud IaC Lab** — Terraform w/ AWS EC2, S3, IAM, VPC Provisioning  
 ❌ **Terminal Copilot** — AI Shell Commands w/ OpenAI + Python  
 ❌ **IR Simulator** — Brute Force Detection, Log Triage, RCA Generator  
