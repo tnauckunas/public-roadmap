@@ -1,7 +1,7 @@
 # Tomas Nauckunas — Full-Spectrum Tech Project Roadmap  
 _A Zero-to-DevSecOps Buildout | Real-World Problems → Real Proof_
 
-This roadmap documents my zero-to-one evolution across IT, DevOps, security, scripting, and automation. Every project listed was born from real pain — systems I personally fixed, rebuilt, or reinvented from scratch.  
+This roadmap documents my zero-to-one evolution across IT, DevOps, security, scripting, and automation. Every project listed was born from real pain, systems I personally fixed, rebuilt, or reinvented from scratch.  
 No courses. No fluff. Just delivered capability and proof.
 
 ---
