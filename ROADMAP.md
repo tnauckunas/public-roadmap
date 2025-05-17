@@ -14,7 +14,8 @@ This public roadmap is a high-impact tracker for my monthly project development,
 - [ ] **Repo 6:** Network Security Toolkit (Port Scanner, Packet Sniffer, Brute Force Logger)  
 - [ ] **Repo 7:** Cloud IaC Lab (Terraform + AWS EC2, S3, IAM, VPC)  
 - [ ] **Repo 8:** Terminal Copilot — Natural Language to Shell with AI (Python + OpenAI)  
-- [ ] **Repo 9:** Incident Response Simulator (Brute Force, Log Triage, Auto RCA Generator)  
+- [ ] **Repo 9:** Incident Response Simulator (Brute Force, Log Triage, Auto RCA Generator)
+- [ ] **Repo 10:** SIEM Rule Forge — Log Parser + Alert Generator (Regex, YAML Rules, CLI Output)
 
 ---
 
