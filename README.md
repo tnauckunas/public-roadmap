@@ -13,7 +13,7 @@ This repository tracks my ongoing portfolio development across multiple domains 
 | [Sempre-Health QA](https://github.com/tnauckunas/sempre-health-qa-support-log) | Documents live QA, troubleshooting, and integration tasks performed during my tenure at Sempre Health |
 | [IT Field Tech Moving & QA](https://github.com/tnauckunas/field-system-reinstall-log) | Image-documented archive of repair, install, transport, testing, and QA logs |
 | [Mechnical Diagnostic Repair](https://github.com/tnauckunas/multi-domain_field_repair_logs) | Hands-on mechanical, electrical, and diagnostic repair logs across multiple domains |
-| [Dev Study Vault](https://github.com/tnauckunas/dev-grind-vault)	| Daily deep-dive into Python, CLI apps, and backend foundations. Logs real-time skill upgrades, Udemy bootcamps, and personal experiments. |
+| [Dev Study Vault](https://github.com/tnauckunas/dev-grind-vault)	| Daily deep-dive into Python, CLI apps, and backend foundations. Logs real-time skill upgrades, Udemy bootcamps, and personal experiments |
 | [Clearance Scanner US & UK > In Progress](https://github.com/tnauckunas/store_clearance-scanner) | Python-based CLI to detect unlisted retail clearance deals |
 
 ## Repo Structure Strategy
