@@ -2,10 +2,6 @@
 
 This repository tracks my ongoing portfolio development across multiple domains including IT support, DevOps, mobile apps, field repair engineering, and automation scripting. Each project reflects a real-world pain point I've personally solved hands-on, rebuilt from the ground up, and documented with no fluff.
 
-## Contents
-
-- [ROADMAP](https://github.com/tnauckunas/public-roadmap/blob/da84fb1ac3738169c12ed9bac3dd8459f6bc997c/ROADMAP.md) – Full public development tracker
-
 ## Core Projects
 
 | Repo | Description |
