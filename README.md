@@ -1,14 +1,17 @@
-# Tomas Nauckunas – Public Roadmap Hub
+# Tomas Nauckunas — Operations, Logistics & Technical Operations Portfolio
 
-This repository tracks my ongoing portfolio development across multiple domains including IT support, DevOps, mobile apps, field repair engineering, and automation scripting. Each project reflects a real-world pain point I've personally solved hands-on, rebuilt from the ground up, and documented with no fluff.
+Operations and logistics portfolio documenting real-world projects across workforce planning, specialist transport, inventory control, digital operations, technical field services, quality assurance and process improvement. Projects are based on operational problems I have personally managed, improved, solved or prototyped across the UK and US.
 
 ## Core Projects
 
 | Repo | Description |
 |------|-------------|
-| [Sempre-Health QA](https://github.com/tnauckunas/sempre-health-qa-support-log) | Documents live QA, troubleshooting, and integration tasks performed during my tenure at Sempre Health |
-| [IT Field Tech Moving & QA](https://github.com/tnauckunas/field-system-reinstall-log) | Image-documented archive of repair, install, transport, testing, and QA logs |
-| [Mechnical Diagnostic Repair](https://github.com/tnauckunas/multi-domain_field_repair_logs) | Hands-on mechanical, electrical, and diagnostic repair logs across multiple domains |
+| [Luxury Hotel Asset Recovery](https://github.com/tnauckunas/sempre-health-qa-support-log) | Recovery of ~300 hospitality assets; inventory control, traceability and operational risk |
+| [Blue Oak Mobile Inventory System](https://github.com/tnauckunas/sempre-health-qa-support-log) | AppSheet + Zebra asset tracking across ~25 storage containers |
+| [Central London Logistics Operations](https://github.com/tnauckunas/sempre-health-qa-support-log) | Workforce, fleet and operational planning for deployments up to 15 staff / 5 vehicles / 2 HGVs |
+| [IT Field Tech Moving & QA](https://github.com/tnauckunas/field-system-reinstall-log) | Specialist transport, installation, testing and technical QA |
+| [Sempre-Health QA](https://github.com/tnauckunas/sempre-health-qa-support-log) | Medical-device QA, troubleshooting and SOP documentation |
+| [Mechnical Diagnostic Repair](https://github.com/tnauckunas/multi-domain_field_repair_logs) | Mechanical, electrical and diagnostic troubleshooting |
 
 ## Repo Structure Strategy
 
@@ -21,4 +24,4 @@ Every high-impact repo includes:
 
 ---
 
-_Last updated: May 2025_
+_Last updated: August 2026_
