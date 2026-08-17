@@ -6,21 +6,21 @@ Operations and logistics portfolio documenting real-world projects across workfo
 
 | Repo | Description |
 |------|-------------|
-| [Luxury Hotel Asset Recovery](https://github.com/tnauckunas/luxury-hotel-asset-recovery) | Recovery of ~300 hospitality assets; inventory control, traceability and operational risk |
-| [Blue Oak Mobile Inventory System](https://github.com/tnauckunas/Blue-Oak-Mobile-Inventory-System) | AppSheet + Zebra asset tracking across ~25 storage containers |
-| [Central London Logistics Operations](https://github.com/tnauckunas/Central-London-Logistics-Operations) | Workforce, fleet and operational planning for deployments up to 15 staff / 5 vehicles / 2 HGVs |
+| [Luxury Hotel Asset Recovery](https://github.com/tnauckunas/luxury-hotel-asset-recovery) | Recovery of ~300 luxury-hotel bedding assets; asset triage, traceability, inventory control and operational risk |
+| [Mobile Inventory & Asset Tracking System](https://github.com/tnauckunas/Blue-Oak-Mobile-Inventory-System) | AppSheet + Zebra mobile asset tracking across ~25 storage containers |
+| [Central London Logistics Operations](https://github.com/tnauckunas/Central-London-Logistics-Operations) | Complex Central London operations involving up to 15 personnel, 5 vehicles and 2 HGVs |
 | [Specialist Equipment Logistics & Technical QA](https://github.com/tnauckunas/field-system-reinstall-log) | Specialist transport, teardown, reinstallation, troubleshooting and QA of complex electrical and mechanical equipment. |
 | [Sempre-Health QA](https://github.com/tnauckunas/sempre-health-qa-support-log) | Medical-device QA, troubleshooting and SOP documentation |
 | [Mechnical Diagnostic Repair](https://github.com/tnauckunas/multi-domain_field_repair_logs) | Mechanical, electrical and diagnostic troubleshooting |
 
-## Repo Structure Strategy
+## What This Portfolio Demonstrates
 
-Every high-impact repo includes:
-
-- `README.md` → Purpose, scope, and features
-- `TODO.md` → Task log + milestone tracker
-- `logs/` → Screenshots, scans, or test outputs
-- `assets/` → Real proof visuals or annotated images
+Operations Leadership — workforce, fleet and live service delivery
+Logistics Planning — specialist transport, access, sequencing and storage
+Process Improvement — SOPs, workflows and operational controls
+Digital Operations — AppSheet, Zebra, ePOD and asset tracking
+Technical Operations — troubleshooting, reinstallation and functional QA
+Quality Assurance — testing, evidence capture and completion validation
 
 ---
 
