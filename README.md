@@ -1,4 +1,4 @@
-# Tomas Nauckunas — Operations, Logistics & Technical Operations Portfolio
+# Tomas Nauckunas - Operations, Logistics & Technical Operations Portfolio
 
 Operations and logistics portfolio documenting real-world projects across workforce planning, specialist transport, inventory control, digital operations, technical field services, quality assurance and process improvement. Projects are based on operational problems I have personally managed, improved, solved or prototyped across the UK and US.
 
