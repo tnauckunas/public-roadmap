@@ -16,10 +16,15 @@ Operations and logistics portfolio documenting real-world projects across workfo
 ## What This Portfolio Demonstrates
 
 Operations Leadership — workforce, fleet and live service delivery
+
 Logistics Planning — specialist transport, access, sequencing and storage
+
 Process Improvement — SOPs, workflows and operational controls
+
 Digital Operations — AppSheet, Zebra, ePOD and asset tracking
+
 Technical Operations — troubleshooting, reinstallation and functional QA
+
 Quality Assurance — testing, evidence capture and completion validation
 
 ---
