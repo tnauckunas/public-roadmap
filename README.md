@@ -6,7 +6,7 @@ Operations and logistics portfolio documenting real-world projects across workfo
 
 | Repo | Description |
 |------|-------------|
-| [Luxury Hotel Asset Recovery](https://github.com/tnauckunas/sempre-health-qa-support-log) | Recovery of ~300 hospitality assets; inventory control, traceability and operational risk |
+| [Luxury Hotel Asset Recovery](https://github.com/tnauckunas/luxury-hotel-asset-recovery) | Recovery of ~300 hospitality assets; inventory control, traceability and operational risk |
 | [Blue Oak Mobile Inventory System](https://github.com/tnauckunas/sempre-health-qa-support-log) | AppSheet + Zebra asset tracking across ~25 storage containers |
 | [Central London Logistics Operations](https://github.com/tnauckunas/sempre-health-qa-support-log) | Workforce, fleet and operational planning for deployments up to 15 staff / 5 vehicles / 2 HGVs |
 | [Specialist Equipment Logistics & Technical QA](https://github.com/tnauckunas/field-system-reinstall-log) | Specialist transport, teardown, reinstallation, troubleshooting and QA of complex electrical and mechanical equipment. |
